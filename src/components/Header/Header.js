@@ -5,7 +5,7 @@ import './Header.css'
 export const Header = () =>{
     return(
         <div className="header-container">
-            <img src={logo}/>
+            <img className="logo-image" src={logo}/>
         </div>
     )
 }

@@ -11,12 +11,17 @@ export const Passport = () => {
         "Breed": 'Russian Blue Mix',
         "Size": 'small'
     }
-    return (<div className="passport-container">
-        <h1>Pet Passport</h1>
-        <PetPicture />
-        <PetInfo info={suki}/>
-        <PetPaw />
-    </div>)
+    return (
+        <div className="passport-container">
+            <div className="passport-row1">
+                <h1>Pet Passport</h1>
+            </div>
+            <div className="passport-row2">
+                <PetPicture />
+                <PetInfo info={suki}/>
+                <PetPaw />
+             </div>
+        </div>)
 }
 
 export default Passport

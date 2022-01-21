@@ -1,0 +1,13 @@
+.pet-picture{
+    width: 400px;
+    height: 100%;
+}
+
+@media screen and (max-width: 400px) {
+    .pet-picture {
+        width: 200px;
+        height: 100%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
