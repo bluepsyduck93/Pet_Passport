@@ -2,6 +2,10 @@
 
 # Solution is on the demoDay1 branch
 
+Some Notes: This project was intended to teach new folks at J&J on how to translate a Wireframe / Picture into a React App. This was supplemented by some instruction that is not avaliable to the public.
+
+The instruction can be recorded again with enough demand.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
