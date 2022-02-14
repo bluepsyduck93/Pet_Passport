@@ -1,6 +1,6 @@
 # Pet_Passport
 
-#Solution is on the demoDay1 branch
+# Solution is on the demoDay1 branch
 
 # Getting Started with Create React App
 
